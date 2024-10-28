@@ -1,0 +1,3 @@
+﻿  main.cc
+C:\Users\kseft\Desktop\CS\C++\M144_Project\M144_Raytracer\Headers\plane.h(124,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  M144_Raytracer.vcxproj -> C:\Users\kseft\Desktop\CS\C++\M144_Project\M144_Raytracer\x64\Debug\M144_Raytracer.exe
